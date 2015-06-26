@@ -1,5 +1,7 @@
 ##Sliding Puzzle
 
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/15-puzzle.svg/400px-15-puzzle.svg.png)
+
 This months SDRuby magic might will be to create and implement a [sliding puzzle](https://en.wikipedia.org/wiki/15_puzzle).
 
 Constraints:
